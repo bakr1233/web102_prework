@@ -35,7 +35,7 @@ https://drive.google.com/file/d/1X5GkLk76h0T7OXNLJJz2vBZTcw3TEoxw/view?usp=shari
 
 ## Notes
 
-My challenge was understanding the challenger well enough to write the code correctly; I had so many errors but overcame them since I spent a lot of time planning and organizing my thoughts to solve the problem.
+My challenge was understanding the challenger well enough to write the code correctly; I had so many errors but overcame them since I spent a lot of time planning and organizing my thoughts to solve the problem. Also, I struggled to upload the GIF file to Imgur since the GIF file is a considerable size.
 
 ## License
 
