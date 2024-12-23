@@ -25,8 +25,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-the record of walkthrough is on the file Video
+https://drive.google.com/file/d/1X5GkLk76h0T7OXNLJJz2vBZTcw3TEoxw/view?usp=sharing
 
+**I shared the file in Google Drive since the file is bigger and has a gif, and the image required a very lower file size, so I uploaded it to Google Drive to share it. It is the only way.**
 
 
 ## Notes
