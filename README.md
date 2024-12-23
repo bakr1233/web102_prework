@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/nueP4vu"  ><a href="//imgur.com/a/nueP4vu">Pre-work</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://imgur.com/VvEJdUn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 https://drive.google.com/file/d/1X5GkLk76h0T7OXNLJJz2vBZTcw3TEoxw/view?usp=sharing
 
 **I shared the file in Google Drive since the file is bigger and has a gif, and the image required a very lower file size, so I uploaded it to Google Drive to share it. It is the only way.**
